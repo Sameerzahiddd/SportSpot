@@ -113,7 +113,7 @@ CREATE TABLE UserReviews(
 	rating FLOAT NOT NULL,
 	ground_id INT REFERENCES Grounds(id) ON DELETE CASCADE NOT NULL,
 	comment VARCHAR(255),
-	PRIMARY KEY (user_id, booking)
+	PRIMARY KEY (user_id, ground_id)
 );
 
 -- Step 1: Create the trigger function to update the average rating and total ratings in the Grounds table
