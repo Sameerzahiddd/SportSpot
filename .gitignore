@@ -1,0 +1,112 @@
+# Logs
+*.log
+logs/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directories
+node_modules/
+vendor/
+.venv/
+__pycache__/
+*.egg-info/
+
+# OS Generated Files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+*.spotlight-V100
+*.Trashes
+
+# IDE and Editor Settings
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Python
+*.py[cod]
+*.pyo
+.env
+.env.*
+.mypy_cache/
+.pytest_cache/
+.tox/
+.coverage
+*.coverage
+
+# JavaScript
+/dist/
+/build/
+/coverage/
+*.min.js
+*.map
+
+# Java & Kotlin
+*.class
+*.jar
+*.war
+*.ear
+*.iml
+.gradle/
+build/
+
+# Go
+*.exe
+*.out
+*.test
+
+# Ruby
+*.gem
+.bundle/
+.rvmrc
+
+# PHP
+/vendor/
+*.phpunit.result.cache
+
+# Rust
+/target/
+*.rs.bk
+
+# Swift
+*.xcworkspace
+*.xcodeproj
+*.swiftpm
+.build/
+
+# Terraform
+*.tfstate
+*.tfstate.backup
+.terraform/
+
+# Docker
+*.pid
+*.log
+docker-compose.override.yml
+
+# Miscellaneous
+*.bak
+*.tmp
+*.swp
+*.old
+*.orig
+*.rej
+*.log.*
+*.lock
+
+# Backup and Archive Files
+*.gz
+*.zip
+*.tar
+*.rar
+*.7z
+
+# Custom Ignore Paths (Add specific project folders/files to exclude)
+your-specific-folder/
+your-temporary-files/
+*.tmp.*
