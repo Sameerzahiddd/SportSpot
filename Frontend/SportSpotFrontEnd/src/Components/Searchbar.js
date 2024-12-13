@@ -1,3 +1,5 @@
+// Searchbar.js
+
 import React, { useState } from "react";
 import { FaMapMarkerAlt, FaCalendarAlt, FaSearch } from "react-icons/fa";
 import DatePicker from "react-datepicker";

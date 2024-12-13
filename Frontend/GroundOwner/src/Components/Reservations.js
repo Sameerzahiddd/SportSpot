@@ -1,3 +1,5 @@
+// Reservations.js
+
 import React, { useState, useEffect } from "react";
 import axios from "axios";
 import { useLocation, Navigate } from "react-router-dom";

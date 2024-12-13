@@ -1,3 +1,5 @@
+// Navbar.js
+
 import React from "react";
 import SearchBar from "./Searchbar";
 import { Link } from "react-router-dom";
