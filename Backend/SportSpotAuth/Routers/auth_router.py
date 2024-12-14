@@ -1,3 +1,5 @@
+# backend/SportSpotAuth/Routers/auth_router.py
+
 from fastapi import APIRouter, Form, Depends
 from starlette import status
 from Services.Auth.SignUp.sign_up import create_user

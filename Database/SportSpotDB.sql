@@ -1,3 +1,5 @@
+-- SportSpotDB.sql
+
 CREATE TABLE Users(
 	email VARCHAR(255) PRIMARY KEY,
 	hashed_password VARCHAR(255) NOT NULL,
