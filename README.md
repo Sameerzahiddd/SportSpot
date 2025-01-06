@@ -1,0 +1,1 @@
+SportSpot is a web platform designed to streamline sports venue bookings, connecting sports enthusiasts with local venues to optimize scheduling and fill unused time slots. It provides ground owners with tools to increase revenue by up to 30% through better booking management. SportSpot also enhances user experience by offering seamless, real-time reservation options.
